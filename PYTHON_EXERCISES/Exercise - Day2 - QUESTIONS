@@ -1,0 +1,60 @@
+
+The questions for the exercises are given above the cells and the expected output is given below the cell. Please type the code inserting a new cell below the question because if you run the expected output cell the output would vanish! Happy learning!
+1. Write a Python program to find those numbers which are divisible by 7 and multiple of 5, between 1500 and 2700 (both included).
+In [1]:
+
+1505,1540,1575,1610,1645,1680,1715,1750,1785,1820,1855,1890,1925,1960,1995,2030,2065,2100,2135,2170,2205,2240,2275,2310,2345,2380,2415,2450,2485,2520,2555,2590,2625,2660,2695
+2. Write a Python program to construct the following pattern, using a nested for loop.
+In [3]:
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+3. Write a Python program to count the number of even and odd numbers from a series of numbers.
+In [4]:
+
+Number of even numbers : 4
+Number of odd numbers : 5
+4. Write a Python program to find numbers between 100 and 400 (both included) where each digit of a number is an even number. The numbers obtained should be printed in a comma-separated sequence.
+In [5]:
+
+200,202,204,206,208,220,222,224,226,228,240,242,244,246,248,260,262,264,266,268,280,282,284,286,288,400
+5. Write a Python program to calculate a dog's age in dog's years. Go to the editor
+Note: For the first two years, a dog year is equal to 10.5 human years. After that, each dog year equals 4 human years.
+
+In [7]:
+
+Input a dog's age in human years: 20
+The dog's age in dog's years is 93
+6. Write a Python function to find the Max of three numbers.
+In [9]:
+
+The Three numbers are: (3, 6, -5)
+6
+7. Write a Python function that takes a number as a parameter and check the number is prime or not.
+In [11]:
+
+The number is: 9
+False
+8. Write a Python function that accepts a string and calculate the number of upper case letters and lower case letters. Go to the editor
+In [13]:
+
+Original String :  Inceptz is One of The BeSt Places TO LEarn DataSciEnce
+No. of Upper case characters :  13
+No. of Lower case Characters :  32
+9. Write a Python program to reverse a string.
+In [19]:
+
+The original string is: 1234abcd
+The reversed string: dcba4321
+10. Write a Python program to find the greatest common divisor (gcd) of two integers.
+In [18]:
+
+The two numbers are: (12, 14)
+The GCD of the numbers are: 2
